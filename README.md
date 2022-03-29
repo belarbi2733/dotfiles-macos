@@ -1,6 +1,6 @@
 <img alt="dotfiles" width="200" src="https://cdn.rawgit.com/davidosomething/dotfiles/master/meta/dotfiles-logo.png">
 
-My dotfiles. <https://github.com/davidosomething/dotfiles>
+My dotfiles. <https://github.com/belarbi2733/dotfiles-macos>
 
 - I use macOS, Manjaro, and Debian. Limited Fedora support.
 - [XDG] compliance wherever possible to keep `$HOME` clean
